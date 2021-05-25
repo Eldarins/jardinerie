@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "cueillir les choux"
+echo "Belle récolte!"
+echo "Vive les choux!"
